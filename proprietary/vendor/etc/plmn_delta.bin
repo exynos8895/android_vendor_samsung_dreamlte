@@ -126,12 +126,16 @@ BTB-Mobile"B-Mobile
 40440Airtel"Airtel
 
 40441AIRCEL"AIRCEL
-#
-40443Vodafone IN"Vodafone IN
+ 
+40443Vodafone IN"Vodafone
 
 40445Airtel"Airtel
+ 
+40446Vodafone IN"Vodafone
 
 40449Airtel"Airtel
+ 
+40460Vodafone IN"Vodafone
 
 40468Dolphin"Dolphin
 
@@ -140,8 +144,14 @@ BTB-Mobile"B-Mobile
 40470Airtel"Airtel
 
 40483Reliance"Reliance
+ 
+40484Vodafone IN"Vodafone
 
 40485Reliance"RELIANCE
+ 
+40486Vodafone IN"Vodafone
+ 
+40488Vodafone IN"Vodafone
 
 40490Airtel"Airtel
 
@@ -246,8 +256,26 @@ $
 40555Airtel"Airtel
 
 40556Airtel"Airtel
+ 
+40566Vodafone IN"Vodafone
+ 
+40567Vodafone IN"Vodafone
 
 40585AIRCEL"AIRCEL
+!
+405750Vodafone IN"Vodafone
+!
+405751Vodafone IN"Vodafone
+!
+405752Vodafone IN"Vodafone
+!
+405753Vodafone IN"Vodafone
+!
+405754Vodafone IN"Vodafone
+!
+405755Vodafone IN"Vodafone
+!
+405756Vodafone IN"Vodafone
 
 405800AIRCEL"AIRCEL
 
@@ -451,8 +479,6 @@ Zain Iraq "	Zain Iraq
 42602zain BH"zain BH
 
 42604VIVA"VIVA
-
-42701Qatarnet"Qatarnet
 )
 42702Vodafone Qatar"Vodafone Qatar
 
@@ -582,8 +608,6 @@ red mobile
 60202vodafone"vodaEG
 
 60301Mobilis"Mobilis
-
-60400Meditel"Meditel
 
 60401IAM"IAM
 
@@ -610,8 +634,6 @@ CKY-Areeba"Areeba
 
 61205
 TELECEL-CI"TELCEL
-
-61302	BF Celtel"celtel
 
 61401SAHELCOM"SAHELCOM
 
@@ -674,8 +696,6 @@ $
 62907WARID RC"WARID RC
 
 63001Vodacom"Vodacom
-
-63089CD OASIS"OASIS
 
 63104MOVICEL"MOVICEL
 

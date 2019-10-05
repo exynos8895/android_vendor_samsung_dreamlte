@@ -131,15 +131,18 @@ Telekom SK"Telekom
 23106O2 - SK"O2 - SK
 
 23201A1"A1
-
+
 23203
-T-Mobile A"TMA
+Magenta-T-"MagentaT
 
 232053 AT"3 AT
 
 23207telering"telering
 
 232103 AT"3 AT
+
+23213
+Magenta-T-"MagentaT
 #
 23403Airtel-Vodafone"ATL-VOD
 
@@ -336,8 +339,8 @@ ALBtelecom"ATmobile
 27877Melita Mobile"Melita
 
 28001	Cyta-Voda"CytaVoda
-
-28010MTN"MTN
+
+28010epic"epic
 !
 28020PrimeTel PLC"PrimeTel
 
@@ -1300,8 +1303,6 @@ Banglalink"BL
 50502Optus AU"Optus
 
 50503vodafone AU"voda AU
-
-505063TELSTRA"3TELSTRA
 
 50510Norfolk Telecom"NT
 
@@ -1715,6 +1716,8 @@ VodaCom-MZ"VodaCom
 64703FREE MOBILE RE"FREE RE
 
 64704ZEOP"ZEOP
+
+64710SRR"SRR
 
 64801
 ZW NET*ONE"NETONE
@@ -1949,4 +1952,4 @@ AeroMobile"AeroMob
 
 90146	Telecom26"T26
 
-90150EchoStar Mobile"EML$Published TS25 Database 10 June 2019
+90150EchoStar Mobile"EML&Published TS25 Database 05 August 2019
