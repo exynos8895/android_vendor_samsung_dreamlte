@@ -18,7 +18,7 @@ PRODUCT_SOONG_NAMESPACES += \
     vendor/samsung/dreamlte
 
 PRODUCT_COPY_FILES += \
-    vendor/samsung/dreamlte/proprietary/lib/hw/camera.universal8895.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/camera.universal8895.so \
+    vendor/samsung/dreamlte/proprietary/lib/hw/camera.vendor.universal8895.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/camera.vendor.universal8895.so \
     vendor/samsung/dreamlte/proprietary/lib/libFacePreProcessing.camera.samsung.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libFacePreProcessing.camera.samsung.so \
     vendor/samsung/dreamlte/proprietary/lib/libFacePreProcessing_jni.camera.samsung.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libFacePreProcessing_jni.camera.samsung.so \
     vendor/samsung/dreamlte/proprietary/lib/libFacialBasedSelfieCorrection.camera.samsung.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libFacialBasedSelfieCorrection.camera.samsung.so \
@@ -37,7 +37,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/dreamlte/proprietary/lib/libsmartfocusengine.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsmartfocusengine.so \
     vendor/samsung/dreamlte/proprietary/lib/libuniapi.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libuniapi.so \
     vendor/samsung/dreamlte/proprietary/lib/libuniplugin.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libuniplugin.so \
-    vendor/samsung/dreamlte/proprietary/lib64/hw/camera.universal8895.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/hw/camera.universal8895.so \
+    vendor/samsung/dreamlte/proprietary/lib64/hw/camera.vendor.universal8895.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/hw/camera.vendor.universal8895.so \
     vendor/samsung/dreamlte/proprietary/lib64/libIDDQD_core.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libIDDQD_core.so \
     vendor/samsung/dreamlte/proprietary/lib64/libIDDQD_interface.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libIDDQD_interface.so \
     vendor/samsung/dreamlte/proprietary/lib64/libblurdetection.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libblurdetection.so \
@@ -98,10 +98,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/dreamlte/proprietary/vendor/firmware/setfile_imx320.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_imx320.bin \
     vendor/samsung/dreamlte/proprietary/vendor/firmware/setfile_imx333.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_imx333.bin \
     vendor/samsung/dreamlte/proprietary/vendor/firmware/vts.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vts.bin \
-    vendor/samsung/dreamlte/proprietary/vendor/lib/camera.device@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera.device@1.0-impl.so \
-    vendor/samsung/dreamlte/proprietary/vendor/lib/camera.device@3.2-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera.device@3.2-impl.so \
-    vendor/samsung/dreamlte/proprietary/vendor/lib/camera.device@3.3-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera.device@3.3-impl.so \
-    vendor/samsung/dreamlte/proprietary/vendor/lib/camera.device@3.4-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera.device@3.4-impl.so \
     vendor/samsung/dreamlte/proprietary/vendor/lib/libDLInterface.camera.samsung.so:$(TARGET_COPY_OUT_VENDOR)/lib/libDLInterface.camera.samsung.so \
     vendor/samsung/dreamlte/proprietary/vendor/lib/libOpenCv.camera.samsung.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOpenCv.camera.samsung.so \
     vendor/samsung/dreamlte/proprietary/vendor/lib/libhifistill.so:$(TARGET_COPY_OUT_VENDOR)/lib/libhifistill.so \
@@ -118,10 +114,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/dreamlte/proprietary/vendor/lib/libsomp.camera.samsung.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsomp.camera.samsung.so \
     vendor/samsung/dreamlte/proprietary/vendor/lib/libvxu.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvxu.so \
     vendor/samsung/dreamlte/proprietary/vendor/lib/libxcv.camera.samsung.so:$(TARGET_COPY_OUT_VENDOR)/lib/libxcv.camera.samsung.so \
-    vendor/samsung/dreamlte/proprietary/vendor/lib64/camera.device@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera.device@1.0-impl.so \
-    vendor/samsung/dreamlte/proprietary/vendor/lib64/camera.device@3.2-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera.device@3.2-impl.so \
-    vendor/samsung/dreamlte/proprietary/vendor/lib64/camera.device@3.3-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera.device@3.3-impl.so \
-    vendor/samsung/dreamlte/proprietary/vendor/lib64/camera.device@3.4-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera.device@3.4-impl.so \
     vendor/samsung/dreamlte/proprietary/vendor/lib64/libDLInterface.camera.samsung.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libDLInterface.camera.samsung.so \
     vendor/samsung/dreamlte/proprietary/vendor/lib64/libOpenCv.camera.samsung.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libOpenCv.camera.samsung.so \
     vendor/samsung/dreamlte/proprietary/vendor/lib64/libhifistill.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhifistill.so \
