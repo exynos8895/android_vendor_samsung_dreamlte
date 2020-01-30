@@ -196,8 +196,8 @@ Telenor SE"TelenorS
 24201	N Telenor"TELENOR
 
 24202N NetCom"NetCom
-
-24214ice.net"ice.net
+
+24214N ice"ice
 
 24299Tampnet"Tampnet
 
@@ -215,8 +215,7 @@ $
 
 24491	FI SONERA"SONERA
 
-24601
-OMNITEL LT"OMT
+24601Telia LT"Telia
 
 24602LT BITE GSM"BITE
 
@@ -387,8 +386,8 @@ Telenor BG"Telenor
 
 29401
 Telekom MK"MKT MK
-
-29403Vip MKD"Vip MKD
+
+29403A1 MK"A1 MK
 
 29501
 SwisscomFL"Swiss FL
@@ -588,6 +587,8 @@ CoverageCo"CvgCo
  
 312630
 NetGenuity"NetGenui
+ 
+312720Southern Linc"SLINC
 
 312870GigSky"GigSky
 
@@ -1203,16 +1204,18 @@ $
 455033 Macau"3 Macau
 
 45504CTM"CTM
+
+455053 Macau"3 Macau
 
 45601Cellcard"Cellcard
 
-45602SMART"SMART
+45602Smart"Smart
 
 45604qb"qb
 
-45605SMART"SMART
+45605Smart"Smart
 
-45606SMART"SMART
+45606Smart"Smart
 
 45608Metfone"Metfone
 
@@ -1223,8 +1226,8 @@ $
 45702ETL MOBILE NETWORK"ETLMNW
 
 45703Unitel"UNITEL
-
-45708BEELINE LAO"BEELINE
+
+45708TPLUS"TPLUS
 
 46000CHINA MOBILE"CMCC
 
@@ -1383,6 +1386,8 @@ BRU-DSTCom"DSTCom
 
 530242degrees"2degrees
 
+53601PacCell"PacCell
+
 53701bmobile"bmobile
 
 53702Telikom PNG"TM
@@ -1469,8 +1474,8 @@ CK KOKANET"KOKANET
 60704Qcell"QC
 
 60801	Orange SN"OrangeSN
-
-60802SN-SENTEL SG"SENTEL
+
+60802SEN"TIGO
 !
 60803SEN expresso"Expresso
 
@@ -1952,4 +1957,4 @@ AeroMobile"AeroMob
 
 90146	Telecom26"T26
 
-90150EchoStar Mobile"EML&Published TS25 Database 05 August 2019
+90150EchoStar Mobile"EML'Published TS25 Database 14 October 2019
